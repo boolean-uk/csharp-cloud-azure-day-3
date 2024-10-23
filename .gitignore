@@ -1,6 +1,7 @@
 /.idea/
 /.terraform/
 /.terraform.lock.hcl
+/terraform
 /azure-tf-server
 /azure-tf-server.pub
 /main.tfplan
