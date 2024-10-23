@@ -1,0 +1,4 @@
+- Created a VM using terraform.
+- Deployed backend in VM using Nginx
+- Deployed frontend in Nginx.
+- Had an issue when i had to redeploy my backend related to some libraries. 
