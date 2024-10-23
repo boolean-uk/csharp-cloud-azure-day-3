@@ -1,0 +1,20 @@
+ul {
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    height: 2rem;
+    align-items: center;
+}
+
+button {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+input {
+    margin-left: 0.5rem;
+}
