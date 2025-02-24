@@ -99,8 +99,11 @@ ssh -i azure-tf-server azureadmin@<THE IP ADDRESS OF THE VM>
 - Create the VM and its associated infrastructure by modifying the files here.
 - Deploy your backend to the VM and run it so that the endpoints are available.
 - Screenshot your success and post the screenshots below here to showcase your success
-
+  
+![alt text](assets/api-in-azure-vm-working.png "Azure-vm-api-working")
 ## Extension
 
 - Update the Terraform to deploy a React or Angular frontend to the same VM configured so that it can talk to backend
 - Screenshot and Document the various parts of your stack in action and post the results here
+
+![alt text](assets/frontend_working.png "Azure-vm-api-working")
