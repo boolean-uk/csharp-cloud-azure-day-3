@@ -99,7 +99,7 @@ ssh -i azure-tf-server azureadmin@<THE IP ADDRESS OF THE VM>
 - Create the VM and its associated infrastructure by modifying the files here.
 - Deploy your backend to the VM and run it so that the endpoints are available.
 - Screenshot your success and post the screenshots below here to showcase your success
-
+-uploaded screenshots, sadly i could not get the configurations correct in time but the vm was running the cinema api, althoguh port confuguration might not have been correct
 ## Extension
 
 - Update the Terraform to deploy a React or Angular frontend to the same VM configured so that it can talk to backend
