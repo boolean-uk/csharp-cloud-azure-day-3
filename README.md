@@ -1,3 +1,9 @@
+## Completed!
+![image](https://github.com/user-attachments/assets/f1e401fd-3532-48f7-b76a-70dda43d875f)
+Set up a fullstack project using docker and the azure vm. The code is available here: https://github.com/Nikolailb/azure-image-service.
+Everything is setup and run using docker compose up (though I have know that it sometimes complains about the urls and ports so you might need to change those). 
+Until you delete it, it is available at: http://4.235.105.178:5173/#
+
 # C# Cloud Azure Day 3 - TerraForm
 
 ## Learning Objectives
