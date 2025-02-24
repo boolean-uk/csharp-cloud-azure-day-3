@@ -104,3 +104,12 @@ ssh -i azure-tf-server azureadmin@<THE IP ADDRESS OF THE VM>
 
 - Update the Terraform to deploy a React or Angular frontend to the same VM configured so that it can talk to backend
 - Screenshot and Document the various parts of your stack in action and post the results here
+
+## Result
+
+Backend running stellarly
+![image](https://github.com/user-attachments/assets/150a3790-49cc-4685-ab5f-9907a4e5e060)
+
+Frontend running more or less ok
+![image](https://github.com/user-attachments/assets/cb458fd8-ec40-4dff-8cb6-b911f5bb1244)
+
