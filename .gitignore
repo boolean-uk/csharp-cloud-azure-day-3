@@ -6,3 +6,5 @@
 /main.tfplan
 /terraform.tfstate
 /terraform.tfstate.backup
+/test-api/.vs
+/test-api/test-api/obj
