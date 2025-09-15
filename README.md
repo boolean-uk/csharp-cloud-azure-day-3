@@ -104,3 +104,19 @@ ssh -i azure-tf-server azureadmin@<THE IP ADDRESS OF THE VM>
 
 - Update the Terraform to deploy a React or Angular frontend to the same VM configured so that it can talk to backend
 - Screenshot and Document the various parts of your stack in action and post the results here
+
+
+## Chris Sivert
+
+![alt text](<Screenshot 2025-09-15 100340.png>)
+
+Able to connect to vm and run both backend and frontend. I decided to use a personal project. However i had issues with my backend. Frontend works, however backend is supposed to open a window for selecting amount of cameras and other info, but window doesn't appear. Might be a possible to fix it, but I decided to not spend too much time on it.
+
+To be able to get access to the frontend I changed the Network settings for my vm
+
+Frontend (waiting for backend)
+http://40.118.19.233:5173/
+![alt text](<Screenshot 2025-09-15 115617.png>)
+
+Backend (window that should appear)
+![alt text](<Screenshot 2025-09-15 120205.png>)
