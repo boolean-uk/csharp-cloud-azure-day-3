@@ -100,6 +100,14 @@ ssh -i azure-tf-server azureadmin@<THE IP ADDRESS OF THE VM>
 - Deploy your backend to the VM and run it so that the endpoints are available.
 - Screenshot your success and post the screenshots below here to showcase your success
 
+### Backend ruuning on VM, access in browser via IP address and port
+<img width="1084" height="692" alt="image" src="https://github.com/user-attachments/assets/9ce5e90b-d205-4340-9b21-90d47ffcc0ea" />
+
+### Example API Request on VM
+<img width="705" height="832" alt="image" src="https://github.com/user-attachments/assets/99e3e984-49bb-40f1-ad18-c5a24c29e6a2" />
+
+
+
 ## Extension
 
 - Update the Terraform to deploy a React or Angular frontend to the same VM configured so that it can talk to backend
