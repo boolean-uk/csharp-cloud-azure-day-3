@@ -1,3 +1,4 @@
+<img width="3426" height="1432" alt="Screenshot 2025-09-15 124226" src="https://github.com/user-attachments/assets/02cf0b85-f07a-408b-b331-f8283b9c19ad" />
 # C# Cloud Azure Day 3 - TerraForm
 
 ## Learning Objectives
