@@ -1,5 +1,11 @@
 # C# Cloud Azure Day 3 - TerraForm
 
+## Screenshot of my working api: http://51.13.179.109:5161/weatherforecast
+<img width="454" height="563" alt="Skjermbilde 2025-09-15 123713" src="https://github.com/user-attachments/assets/7cf48e98-60eb-46f9-84f7-cad5a28e3d5b" />
+
+
+
+
 ## Learning Objectives
 
 - To be able to create a Linux Virtual Machine on Azure using TerraForm
