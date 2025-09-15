@@ -99,6 +99,8 @@ ssh -i azure-tf-server azureadmin@<THE IP ADDRESS OF THE VM>
 - Create the VM and its associated infrastructure by modifying the files here.
 - Deploy your backend to the VM and run it so that the endpoints are available.
 - Screenshot your success and post the screenshots below here to showcase your success
+- <img width="857" height="441" alt="image" src="https://github.com/user-attachments/assets/9309b0b9-1f20-491b-af3b-dddf5dae8084" />
+
 
 ## Extension
 
