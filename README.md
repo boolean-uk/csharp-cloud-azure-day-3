@@ -1,5 +1,4 @@
 # C# Cloud Azure Day 3 - TerraForm
-
 ## Learning Objectives
 
 - To be able to create a Linux Virtual Machine on Azure using TerraForm
