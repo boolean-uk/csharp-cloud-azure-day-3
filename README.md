@@ -1,5 +1,13 @@
 # C# Cloud Azure Day 3 - TerraForm
 
+
+# Proof:
+<img width="898" height="858" alt="azure_vm_working" src="https://github.com/user-attachments/assets/d20a5dba-128c-4a87-b805-2024237423cd" />
+<img width="2555" height="722" alt="azure_vm_running_backend" src="https://github.com/user-attachments/assets/998417d1-6e0d-4328-9c80-a17af894b55c" />
+
+
+
+
 ## Learning Objectives
 
 - To be able to create a Linux Virtual Machine on Azure using TerraForm
